@@ -2,7 +2,6 @@ Hey there! I'm **T.F.A**, I'm 16 years old and a discord bots developer (unverif
 
 Favorite programming languages that I use:<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)<br>
-![TopLang](	https://github-readme-stats.vercel.app/api/top-langs/?username=TFAGaming&theme=blue-green)<br>
 Favorite databaes that I use:<br>
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br>
 Favorite IDEs that I use:<br>
@@ -11,3 +10,5 @@ Old IDEs that I used before:<br>
 ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)<br>
 Statistics:<br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green)
+Most used languages on GitHub:<br>
+![TopLang](	https://github-readme-stats.vercel.app/api/top-langs/?username=TFAGaming&theme=blue-green)<br>
