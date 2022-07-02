@@ -2,6 +2,13 @@ Hey there! I'm **T.F.A**, I'm 16 years old and a discord bots developer (unverif
 
 Favorite programming languages that I use:<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)<br>
+Computer information:<br>
+OS: **Windows 10**<br>
+Graphic card: **NVIDIA GTX 1660 Super**<br>
+Memory: **16 Go**<br>
+Disk: **SSD - 512 GB**<br>
+CPU: **Intel core I7**<br>
+Bought on: **June 10th 2022**<br>
 Favorite databaes that I use:<br>
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br>
 Favorite IDEs that I use:<br>
