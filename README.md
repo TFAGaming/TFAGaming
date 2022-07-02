@@ -8,3 +8,5 @@ Favorite IDEs that I use:<br>
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ![VSCode](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)<br>
 Old IDEs that I used before:<br>
 ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green)
