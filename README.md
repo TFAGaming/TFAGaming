@@ -12,5 +12,5 @@ Statistics:<br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green)<br>
 Most used languages on GitHub:<br>
 ![TopLang](	https://github-readme-stats.vercel.app/api/top-langs/?username=TFAGaming&theme=blue-green)<br>
-Social medias:
+Social medias:<br>
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) [Subscribe!](https://www.youtube.com/c/TFA7524)
