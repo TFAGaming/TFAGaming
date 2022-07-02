@@ -9,6 +9,6 @@ Favorite IDEs that I use:<br>
 Old IDEs that I used before:<br>
 ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)<br>
 Statistics:<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green)<br>
 Most used languages on GitHub:<br>
 ![TopLang](	https://github-readme-stats.vercel.app/api/top-langs/?username=TFAGaming&theme=blue-green)<br>
