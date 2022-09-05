@@ -1,5 +1,7 @@
 Just a gamer and Discord bots developer.
 
+<img src="https://discord.c99.nl/widget/theme-2/849413565487382578.png">
+
 ### Computer information:<br>
 OS: **Windows 10**<br>
 Graphic card: **NVIDIA GTX 1660 Super**<br>
