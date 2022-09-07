@@ -1,8 +1,15 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1006491186875338823/1017090536861093968/04a12f46f555b3c260d00d37e69c3e7a.png">
   <br>
+  <br>
   <img src="https://discord.c99.nl/widget/theme-2/849413565487382578.png">
 </p>
+
+### Who am I?
+I'm T.F.A, a 16 years old Discord bot developer. I Joined Discord for the first time in 2017 and started coding Discord bots in 2019. Idk what to say more.
+
+### What does my name represents for?
+Real life name. My name starts with T, and my last name contains two words: First starts with F and the other is A. That's how my name is **T.F.A**.
 
 ### Computer information:<br>
 OS: **Windows 10**<br>
