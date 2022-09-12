@@ -16,7 +16,7 @@ OS: **Windows 10**<br>
 Graphic card: **NVIDIA GTX 1660 Super**<br>
 Memory: **16 Go**<br>
 Disk: **SSD - 512 Go**<br>
-CPU: **Intel core I7 10th gen**<br>
+CPU: **11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz**<br>
 Bought on: **June 10th, 2022**<br>
 
 ### Favorite programming languages that I use:<br>
