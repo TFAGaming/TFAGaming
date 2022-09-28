@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/1006491186875338823/1017090536861093968/04a12f46f555b3c260d00d37e69c3e7a.png">
   <br>
   <br>
-  <img src="https://discord.c99.nl/widget/theme-2/849413565487382578.png">
+  <img src="https://lanyard.cnrad.dev/api/849413565487382578">
 </p>
 
 ### Who am I?
@@ -30,8 +30,6 @@ Bought on: **June 10th, 2022**<br>
 
 ### Statistics:<br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green)<br>
-
-### Most used languages on GitHub:<br>
 ![TopLang](	https://github-readme-stats.vercel.app/api/top-langs/?username=TFAGaming&theme=blue-green)<br>
 
 ##### Social medias:<br>
