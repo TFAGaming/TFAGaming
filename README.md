@@ -42,6 +42,15 @@ Bought on: **June 10th, 2022**<br>
 <a href="https://github.com/TFAGaming/DiscordJS-V14-Bot-Template">
     DiscordJS-V14-Bot-Template
 </a>
+
+<p>
+  <b>
+    T.F.A's npm Package(s)
+  </b>
+</p>
+<a href="https://www.npmjs.com/package/super-djs"> 
+  super-djs
+</a>
 </div>
 
 ##### Contact me:<br>
