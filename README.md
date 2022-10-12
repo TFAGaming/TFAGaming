@@ -43,6 +43,7 @@ Bought on: **June 10th, 2022**<br>
     DiscordJS-V14-Bot-Template
 </a>
 
+<br>
 <p>
   <b>
     T.F.A's npm Package(s)
