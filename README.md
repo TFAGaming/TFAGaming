@@ -20,7 +20,7 @@ CPU: **11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz**<br>
 Bought on: **June 10th, 2022**<br>
 
 ### • Programming languages that I use:<br>
-<img src="https://img.shields.io/badge/100%20Percent-100000?logo=javascript&style=flat&label=JavaScript&color=32cd32"> <img src="https://img.shields.io/badge/75%20Percent-100000?logo=typescript&style=flat&label=TypeScript&color=green"> <img src="https://img.shields.io/badge/75 Percent-100000?logo=python&style=flat&label=Python&color=green"> <img src="https://img.shields.io/badge/50%20Percent-100000?logo=html5&style=flat&label=HTML 5&color=yellow"> <img src="https://img.shields.io/badge/50%20Percent-100000?logo=css3&style=flat&logoColor=blue&label=CSS 3&color=yellow">
+<img src="https://img.shields.io/badge/100%20Percent-100000?logo=javascript&style=flat&label=JavaScript&color=32cd32"> <img src="https://img.shields.io/badge/90%20Percent-100000?logo=typescript&style=flat&label=TypeScript&color=32cd32"> <img src="https://img.shields.io/badge/75 Percent-100000?logo=python&style=flat&label=Python&color=green"> <img src="https://img.shields.io/badge/50%20Percent-100000?logo=html5&style=flat&label=HTML 5&color=yellow">
 
 ### • DataBases that I use:<br>
 <img src="https://img.shields.io/badge/100 Percent-100000?logo=mongodb&style=flat&label=MongoDB&color=32cd32"> <img src="https://img.shields.io/badge/100 Percent-100000?logo=sqlite&style=flat&logoColor=blue&label=Quick.DB&color=32cd32">
