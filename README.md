@@ -26,7 +26,7 @@ Bought on: **June 10th, 2022**<br>
 <img src="https://img.shields.io/badge/100 Percent-100000?logo=mongodb&style=flat&label=MongoDB&color=32cd32"> <img src="https://img.shields.io/badge/100 Percent-100000?logo=sqlite&style=flat&logoColor=blue&label=Quick.DB&color=32cd32">
 
 ### • IDEs that I use:<br>
-<img src="https://img.shields.io/badge/100 Percent-100000?logo=visual%20studio%20code&style=flat&logoColor=blue&label=Visual Studio Code&color=32cd32"> <img src="https://img.shields.io/badge/0 Percent-100000?logo=replit&style=flat&label=Repl.it&color=red">
+<img src="https://img.shields.io/badge/100 Percent-100000?logo=visual%20studio%20code&style=flat&logoColor=blue&label=Visual Studio Code&color=32cd32"> <img src="https://img.shields.io/badge/100%20Percent-100000?logo=the%20algorithms&style=flat&logoColor=white&label=AlgoBox&color=32cd32"> <img src="https://img.shields.io/badge/0 Percent-100000?logo=replit&style=flat&label=Repl.it&color=red">
 
 <br>
 <div align="center">
