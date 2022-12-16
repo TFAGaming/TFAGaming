@@ -12,6 +12,11 @@ I'm T.F.A, a 16 years old Discord bot developer. I Joined Discord for the first 
 Welp, I'm just making Discord bots, you know. :trollface:<br>
 Jk, I'm working importantly on my server-only bot, which is called "T.F.A's Utilities". It's an advanced auto-moderation bot, like "Sound's Utilities", a bot from a partnered server called "Sound's World" (NOT A 100% COPY). It has a lot of features like auto YouTube statistics changer, multi select-roles menu, economy system, and advanced moderation commands! And while I'm working on this project, I always try new functions and things about MongoDB. I quit of using quick.db or mysql database types, I prefer for now non-sql database types.
 
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/996343173922168872/1053440371415326770/2022-12-16_23_33_56-yt-stats___T.F.A_7524_-_Development_-_Discord.png">
+  <img src="https://media.discordapp.net/attachments/996343173922168872/1053440371822186617/2022-12-16_23_35_19-3_Discord___owner-only___T.F.A_7524_-_Development_.png">
+</div>
+
 ### • What does my name represents for?
 Real life name. My name starts with T, and my last name contains two words: First starts with F and the other is A. That's how my name is **T.F.A**.
 
