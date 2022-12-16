@@ -20,6 +20,14 @@ Jk, I'm working importantly on my server-only bot, which is called "T.F.A's Util
 ### • What does my name represents for?
 Real life name. My name starts with T, and my last name contains two words: First starts with F and the other is A. That's how my name is **T.F.A**.
 
+### • Do I own a server?
+Yeah I do brother, here is it!
+<div align="center">
+  <a href="https://discord.gg/bGNRZcnwWy">
+     <img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3">
+  </a>
+</div>
+
 ### • Computer information:<br>
 OS: **Windows 10**<br>
 Graphic card: **NVIDIA GTX 1660 Super (6 Go)**<br>
