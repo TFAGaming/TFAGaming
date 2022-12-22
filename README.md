@@ -28,6 +28,9 @@ Yeah I do brother, here is it!
   </a>
 </div>
 
+### • Do you have an npm package?
+Yeah sure, check out this new one! [discord.js-v14-helper](https://www.npmjs.com/package/discord.js-v14-helper)
+
 ### • Computer information:<br>
 OS: **Windows 10**<br>
 Graphic card: **NVIDIA GTX 1660 Super (6 Go)**<br>
@@ -61,14 +64,6 @@ Bought on: **June 10th, 2022**<br>
 </a>
 
 <br>
-<p>
-  <b>
-    T.F.A's npm Package(s)
-  </b>
-</p>
-<a href="https://www.npmjs.com/package/super-djs"> 
-  super-djs
-</a>
 </div>
 
 ##### Contact me:<br>
