@@ -33,9 +33,9 @@ Well, I know: JavaScript, TypeScript, C++ (started learning it), Python, and Ard
 ### More information:
 #### - Computer information:<br>
 OS: **Windows 10**<br>
-Graphic card: **NVIDIA GTX 1660 Super (6 Go)**<br>
-Memory: **16 Go**<br>
-Disk: **SSD - 512 Go**<br>
+Graphic card: **NVIDIA GTX 1660 Super (6 GB)**<br>
+Memory: **16 GB**<br>
+Disk: **SSD - 512 GB**<br>
 CPU: **11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz**<br>
 Bought on: **June 10th, 2022**<br>
 
