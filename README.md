@@ -42,3 +42,8 @@ Bought on: **June 10th, 2022**<br>
 <a href="https://discord.com/users/849413565487382578">
     <img src="https://img.shields.io/badge/Discord-100000?logo=discord&style=social">
 </a>
+
+#### - Statistics:
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfagaming&show_icons=true&locale=en&layout=compact&theme=blue-green">
+</p>
