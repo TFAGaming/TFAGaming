@@ -20,11 +20,13 @@ Who is a Discord bot developer and doesn't own a server? Join my server now! It'
   </a>
 </div>
 
-### Do you have an npm package?
+### Do I own an npm package?
 Yeah sure, check out this new one! [discord.js-v14-helper](https://www.npmjs.com/package/discord.js-v14-helper)
 
-### What programming languages do you know?
-Well, I know: JavaScript, TypeScript, C++ (started learning it), Python, and Arduino.
+### What programming languages do I know?
+Well, I know: **JavaScript**, **TypeScript**, **C++**, **Python**, and **Arduino**.
+
+By the way, I also know **HTML5** but I ain't going to class it in programming languages list. :trollface:
 
 ### More information:
 #### - Computer information:<br>
