@@ -29,6 +29,10 @@ Well, I know: **JavaScript**, **TypeScript**, **C++**, **Python**, and **Arduino
 By the way, I also know **HTML5** but I ain't going to class it in programming languages list. :trollface:
 
 ### More information:
+#### - Country:
+
+<a href="https://en.wikipedia.org/wiki/Tunisia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png"></a>
+
 #### - Computer information:<br>
 OS: **Windows 10**<br>
 Graphic card: **NVIDIA GTX 1660 Super (6 GB)**<br>
