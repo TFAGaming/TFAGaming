@@ -52,5 +52,5 @@ Bought on: **June 10th, 2022**<br>
 #### - Statistics:
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=TFAGaming&theme=blue-green"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tfagaming&show_icons=true&locale=en&layout=compact&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFAGaming&theme=blue-green">
 </p>
