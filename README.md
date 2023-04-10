@@ -13,6 +13,7 @@ If you wonder why my name is "T.F.A", welp, it's my irl (In Real Life) name. The
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,bash,html,css,mongodb,mysql,vscode,nodejs,git,github,arduino&theme=dark">
     <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfagaming&layout=compact&hide_title=1&card_width=300&theme=dark">
 </p>
 
