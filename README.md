@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <strong><a href="tfagaming.github.io">T.F.A</a></strong>. 👋</h1>
+<h1 align="center">Hi there, I'm <strong><a href="https://tfagaming.github.io">T.F.A</a></strong>. 👋</h1>
 <p align="center">
   <br>
   <img src="https://lanyard.cnrad.dev/api/849413565487382578">
