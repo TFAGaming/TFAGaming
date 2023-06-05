@@ -2,9 +2,9 @@
 <p align="center">
   <br>
   <img src="https://lanyard.cnrad.dev/api/849413565487382578">
+  <br>
+  ![](https://komarev.com/ghpvc/?username=tfagaming&label=Profile%20views:&color=brightgreen)
 </p>
-
-![](https://komarev.com/ghpvc/?username=tfagaming)
 
 Hi there, I'm **T.F.A**, a 17 years old Discord bot developer. I started programming the first time back in 2016 using HTML and JavaScript only, learning about the Discord API since 2019, and making npm packages since 2022. I used to code Discord bots in JavaScript, but now, I use TypeScript. I have made a lot of public projects that are popular, check them out by [clicking here](https://github.com/TFAGaming?tab=repositories).
 
