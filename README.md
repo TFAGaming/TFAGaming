@@ -4,6 +4,8 @@
   <img src="https://lanyard.cnrad.dev/api/849413565487382578">
 </p>
 
+![](https://komarev.com/ghpvc/?username=tfagaming)
+
 Hi there, I'm **T.F.A**, a 17 years old Discord bot developer. I started programming the first time back in 2016 using HTML and JavaScript only, learning about the Discord API since 2019, and making npm packages since 2022. I used to code Discord bots in JavaScript, but now, I use TypeScript. I have made a lot of public projects that are popular, check them out by [clicking here](https://github.com/TFAGaming?tab=repositories).
 
 I really love to make Discord bots because it's enjoyable and very creative. You can create many bot projects as many as you want, and that's what I'm doing. I'm sharing my projects to the public, so they can learn how Discord bot works.
