@@ -6,11 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=tfagaming&label=Profile%20views:&color=brightgreen">
 </p>
 
-Hi there, I'm **T.F.A**, a 17 years old Discord bot developer. I started programming the first time back in 2016 using HTML and JavaScript only, learning about the Discord API since 2019, and making npm packages since 2022. I used to code Discord bots in JavaScript, but now, I use TypeScript. I have made a lot of public projects that are popular, check them out by [clicking here](https://github.com/TFAGaming?tab=repositories).
+Hi there, I'm **T.F.A**, a 17 years old self-taught developer, focusing on APIs such as Discord API. I started programming for the first time back in 2016 about web development, now I'm focusing on APIs, and importantly the Discord API. I used to code Discord bots in JavaScript, but now, I use TypeScript because the types are very required nowadays.
 
-I really love to make Discord bots because it's enjoyable and very creative. You can create many bot projects as many as you want, and that's what I'm doing. I'm sharing my projects to the public, so they can learn how Discord bot works.
-
-If you wonder why my name is "T.F.A", welp, it's my in real life name. The **T** is my first name, the **F** and **A** are my last name.
+If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is my first name, and the **F** and **A** is my last name.
 
 ## Skills & Tools
 
