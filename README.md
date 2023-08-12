@@ -16,10 +16,12 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
     <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,bash,html,css,cassandra,mongodb,prisma,mysql,vscode,nodejs,git,github,stackoverflow,arduino&theme=dark">
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/?username=tfagaming&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfagaming&layout=donut&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
+
+<div align="center" dir="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfagaming&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=tfagaming&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+</div>
 
 ## Discord Server
 <div>
