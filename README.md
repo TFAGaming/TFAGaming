@@ -20,6 +20,7 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
 
 <div align="center" dir="auto">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfagaming&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=tfagaming&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
 </div>
 
