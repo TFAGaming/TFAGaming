@@ -26,6 +26,12 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
   <img src="https://github-readme-stats.vercel.app/api?username=tfagaming&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
 </div>
 
+## Projects working on them
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=DiscordJS-V14-Bot-Template&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=Horizon-Handler&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=TFA-Utilities&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+
 ## Discord Server
 <div>
   <a href="https://discord.gg/E6VFACWu5V">
