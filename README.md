@@ -39,6 +39,10 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
   <a href="https://github.com/TFAGaming/Horizon-Handler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=Horizon-Handler&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
+
+  <a href="https://github.com/TFAGaming/NetLevel-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=NetLevel-Bot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+  </a>
 </div>
 
 ## Discord Server
