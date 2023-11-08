@@ -52,7 +52,3 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
   </a>
 </div>
 
-some weird twitter news about gta 6, since why not
-<a href="https://twitter.com/rockstargames/status/1722237703553798312?s=46&t=xqE8vn2pQpH17WQTttdUrg">
-  <img src="https://github.com/TFAGaming/TFAGaming/blob/main/GTA%206.png?raw=true">
-</a>
