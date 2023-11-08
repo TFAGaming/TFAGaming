@@ -51,3 +51,7 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
      <img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3">
   </a>
 </div>
+
+<a href="https://twitter.com/rockstargames/status/1722237703553798312?s=46&t=xqE8vn2pQpH17WQTttdUrg">
+  <img src="https://github.com/TFAGaming/TFAGaming/blob/main/GTA%206.png?raw=true">
+</a>
