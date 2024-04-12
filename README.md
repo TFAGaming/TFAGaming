@@ -13,7 +13,7 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
 ## Skills & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,py,bash,html,css,cassandra,mongodb,prisma,mysql,vscode,nodejs,git,github,stackoverflow,arduino&theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,py,html,css,cassandra,mongodb,prisma,mysql,vscode,nodejs,git,github,stackoverflow,arduino&theme=dark">
     <br>
     <br>
 </p>
