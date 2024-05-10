@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=tfagaming&label=Profile%20views:&color=brightgreen">
 </p>
 
-Hi there, I'm **T.F.A**, a 17 years old self-taught developer, focusing on APIs such as Discord API. I started programming for the first time back in 2016 about web development, now I'm focusing on APIs, and importantly the Discord API. I used to code Discord bots in JavaScript, but now, I use TypeScript because the types are very required nowadays.
+Hi there, I'm **T.F.A**, an 18 years old self-taught developer, focusing on APIs such as Discord API. I started programming for the first time back in 2016 about web development, now I'm focusing on APIs, and importantly the Discord API. I used to code Discord bots in JavaScript, but now, I use TypeScript because the types are very required nowadays.
 
 If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is my first name, and the **F** and **A** is my last name.
 
