@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=tfagaming&label=Profile%20views:&color=brightgreen">
 </p>
 
-Hi there, I'm **T.F.A**, an 18 years old self-taught developer, focusing on APIs such as Discord API. I started programming for the first time back in 2016 about web development, now I'm focusing on APIs, and importantly the Discord API. I used to code Discord bots in JavaScript, but now, I use TypeScript because the types are very required nowadays.
+Hi there, I'm **T.F.A**, an 18-year-old self-taught developer. I like making open-source projects for Discord bots and Minecraft plugins. When I started coding, I used to program Discord bots in JavaScript and then I learned TypeScript for the types and fewer errors and debugging when running a bot. Now, I like making Minecraft plugins using Java.
 
-If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is my first name, and the **F** and **A** is my last name.
+If you wonder why my name is "T.F.A", it's my real-life name. The **T** is my first name, and the **F** and **A** is my last name.
 
 ## Skills & Tools
 
@@ -32,16 +32,16 @@ If you wonder why my name is "T.F.A", well, it's my real-life name. The **T** is
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=DiscordJS-V14-Bot-Template&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
 
+  <a href="https://github.com/TFAGaming/UltrasClaim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=ultrasclaim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+  </a>
+
   <a href="https://github.com/TFAGaming/TFA-Utilities">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=TFA-Utilities&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
 
-  <a href="https://github.com/TFAGaming/RealmProtection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=realmprotection&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
-  </a>
-
-  <a href="https://github.com/TFAGaming/NetLevel-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=NetLevel-Bot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+  <a href="https://github.com/TFAGaming/quick-yaml.db">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=quick-yaml.db&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
 </div>
 
