@@ -8,7 +8,7 @@
 
 Hi there, I'm **T.F.A**, an 18-year-old self-taught developer. I like making open-source projects for Discord bots and Minecraft plugins. When I started coding, I used to program Discord bots in JavaScript and then I learned TypeScript for the types and fewer errors and debugging when running a bot. Now, I like making Minecraft plugins using Java.
 
-If you wonder why my name is "T.F.A", it's my real-life name. The **T** is my first name, and the **F** and **A** is my last name.
+If you wonder why my name is "T.F.A", it's my real-life name. The **T** is the first letter of my first name, and the **F** and **A** are the first letters of my last name.
 
 ## Skills & Tools
 
@@ -32,8 +32,8 @@ If you wonder why my name is "T.F.A", it's my real-life name. The **T** is my fi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=DiscordJS-V14-Bot-Template&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
 
-  <a href="https://github.com/TFAGaming/UltrasClaim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=ultrasclaim&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
+  <a href="https://github.com/TFAGaming/SimpleShopGUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tfagaming&repo=simpleshopgui&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10">
   </a>
 
   <!--
@@ -47,10 +47,13 @@ If you wonder why my name is "T.F.A", it's my real-life name. The **T** is my fi
   </a>
 </div>
 
+<!--
 ## Discord Server
 <div>
   <a href="https://discord.gg/E6VFACWu5V">
      <img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3">
   </a>
 </div>
+
+-->
 
