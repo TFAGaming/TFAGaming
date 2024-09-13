@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm <strong><a href="https://tfagaming.github.io">T.F.A</a></strong>. 👋</h1>
-<p align="center">
+<h1 align="center">Hi there, I'm <strong>T.F.A</strong>. 👋</h1>
+<!-- <p align="center">
   <br>
   <img src="https://lanyard.cnrad.dev/api/849413565487382578">
   <br>
   <img src="https://komarev.com/ghpvc/?username=tfagaming&label=Profile%20views:&color=brightgreen">
-</p>
+</p> -->
 
 Hi there, I'm **T.F.A**, an 18-year-old self-taught developer. I like making open-source projects for Discord bots and Minecraft plugins. When I started coding, I used to program Discord bots in JavaScript and then I learned TypeScript for the types and fewer errors and debugging when running a bot. Now, I like making Minecraft plugins using Java.
 
