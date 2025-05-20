@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=tfagaming&label=Profile%20views:&color=brightgreen">
 </p> -->
 
-Hi there, I'm **T.F.A**, an 19-year-old self-taught developer. I like making open-source projects for Discord bots and Minecraft plugins. When I started coding, I used to program Discord bots in JavaScript and then I learned TypeScript for the types and fewer errors and debugging when running a bot. Now, I like making Minecraft plugins using Java.
+Hi there, I'm **T.F.A**, a 19-year-old self-taught developer. I like making open-source projects for Discord bots and Minecraft plugins. When I started coding, I used to program Discord bots in JavaScript and then I learned TypeScript for the types and fewer errors and debugging when running a bot. Now, I like making Minecraft plugins using Java.
 
 If you wonder why my name is "T.F.A", it's my real-life name. The **T** is the first letter of my first name, and the **F** and **A** are the first letters of my last name.
 
